@@ -9,4 +9,4 @@ In this lab we will use the [main tutorial](Introduction_to_Python_and_Sklearn.i
 ## Tutorial 2: Introduction to Deep Learning with PyTorch
 Slides: [PyTorch](PyTorch.pdf)
 
-We'll continue our sentiment analysis project with [deeplearning methods](deeplearning_intro.ipynb).
+We'll continue our sentiment analysis project with [deep learning methods](deeplearning_intro.ipynb).
