@@ -1,14 +1,15 @@
 # Deep Learning Bootcamp Resources
 
 ## Tutorial 1: Introduction to ML with SciKit Learn
-Slides: [ML with Python](ML_in_Python.pdf)
+Slides: [ML with Python](Tutorial1_Slides-ML_in_Python.pdf)
 
 In this lab we will use the [main tutorial](https://colab.research.google.com/github/pgmikhael/mit_deeplearning_bootcamp/blob/master/Tutorial1_Introduction_to_Python_and_Sklearn.ipynb) for sentiment analysis, as well as the [secondary tutorial](https://colab.research.google.com/github/pgmikhael/mit_deeplearning_bootcamp/blob/master/Tutorial1_NLI_Exercise.ipynb) on natural language inference (time permitting). 
 
-If stuck see the [main tutorial solutions](https://colab.research.google.com/github/pgmikhael/mit_deeplearning_bootcamp/blob/master/Tutorial1_Introduction_to_Python_and_Sklearn_answers.ipynb) and [secondary tutorial solutions](https://colab.research.google.com/github/pgmikhael/mit_deeplearning_bootcamp/blob/master/NLI_Exercise_answers.ipynb).
+If stuck see the [main tutorial solutions](https://colab.research.google.com/github/pgmikhael/mit_deeplearning_bootcamp/blob/master/Tutorial1_Introduction_to_Python_and_Sklearn_answers.ipynb).
+
 
 ## Tutorial 2: Introduction to Deep Learning with PyTorch
-Slides: [PyTorch](PyTorch.pdf)
+Slides: [PyTorch](Tutorial2_Slides-PyTorch.pdf)
 
 We'll continue our sentiment analysis project with [deep learning methods](https://colab.research.google.com/github/pgmikhael/mit_deeplearning_bootcamp/blob/master/Tutorial2_deeplearning_intro.ipynb).
 
